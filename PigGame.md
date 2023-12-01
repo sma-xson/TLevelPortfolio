@@ -198,10 +198,29 @@ elif iPlayer4Score >= 100:
 
 ### Outputs
 Menu and setup options example:
+
+
 ![Screenshot of the main menu and setup options for one player](images/menuimage1.png)
 
 Gameplay example:
+
+
 ![A screenshot of an example of how the gameplay works](images/gameplay1.png)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 Winning example:
+
+
 ![A screenshot of an example of the winning screen](images/win1.png)
