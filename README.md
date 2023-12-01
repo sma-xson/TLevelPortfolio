@@ -1,7 +1,8 @@
-# T-Level Portfolio 
+# Welcome to my T-Level Portfolio
 
-Welcome to my portfolio, this will look at the projects I have created during my T-Level Course:
+This portfolio will look at everything I have created during my two years on the T-Level course at Weston College.
 
-## Programs I have created:
+## Some things I have created in class:
 
 [Pig Game](PigGame.md)
+Pig game is a dice rolling game for 1-4 players. The aim is to get a score of 100 or more.
