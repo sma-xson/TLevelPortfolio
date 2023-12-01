@@ -1,6 +1,6 @@
 # Pig Game
 
-## Code
+## Code:
 
 ```python
 import random
@@ -200,7 +200,7 @@ elif iPlayer4Score >= 100:
 ```
 
 
-### Outputs
+### Outputs:
 Menu and setup options example:
 
 

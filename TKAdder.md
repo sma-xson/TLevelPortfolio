@@ -1,6 +1,6 @@
 # TK Adder
 
-## Code
+## Code:
 
 ```python
 from tkinter import *
@@ -46,7 +46,7 @@ total_label.grid(row = 0, column = 2)
 screen.mainloop()
 ```
 
-## Outputs
+## Outputs:
 Image of the adder before anything has been input 
 
 ![Clear image of the adder](images/clear.png)
