@@ -1,3 +1,7 @@
+# Pig Game
+
+## Code
+
 ```python
 import random
 ## FUNCTIONS ##
